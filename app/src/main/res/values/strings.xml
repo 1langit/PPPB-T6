@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PPPB-T6</string>
+    <array name="attend">
+        <item>Hadir tepat waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
